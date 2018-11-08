@@ -10,7 +10,9 @@
 ## ✨️ Usage
 Funny
 
+## 📺 [Demo]
 
+![logo](balle.gif)
 
 ## ©️ Copyright
 This project is under the MIT LICENSE
